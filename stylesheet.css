@@ -3,12 +3,9 @@ div.battle {
     justify-content: center;
 }
 
-.player {
-    content:url(images/rock.jpg);
-}
+.selimg {
+    border: 1px solid black;
 
-.computer {
-    content:url(images/paper.jpg);
 }
 
 .vs {
