@@ -1,0 +1,14 @@
+div.selection {
+    display:flex;
+
+}
+
+.selection .choice {
+    width:150px;
+
+}
+
+.selection .rock {
+    content:url(images/rock.jpg);
+
+}

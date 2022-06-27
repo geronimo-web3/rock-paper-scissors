@@ -1,0 +1,39 @@
+div.battle {
+    display:flex;
+    justify-content: center;
+}
+
+.player {
+    content:url(images/rock.jpg);
+}
+
+.computer {
+    content:url(images/paper.jpg);
+}
+
+.vs {
+    font-size:3em;
+}
+
+div.selection {
+    display:flex;
+    justify-content: center;
+}
+
+.choice {
+    width:100px;
+    height:100px;
+ 
+}
+
+.rock {
+    content:url(images/rock.jpg);
+}
+
+.paper {
+    content:url(images/paper.jpg);
+}
+
+.scissors {
+    content:url(images/scissors.jpg);
+}
