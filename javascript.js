@@ -39,6 +39,8 @@ function playRound(playerSelection, computerSelection) {
 
   const playerSel = document.querySelector("#playerSel");
   const computerSel = document.querySelector("#computerSel");
+  playerSel.src = "images/blank.jpg";
+  computerSel.src = "images/blank.jpg";
 
   const choiceRock = document.querySelector("#myRock");
   const choicePaper = document.querySelector("#myPaper");
